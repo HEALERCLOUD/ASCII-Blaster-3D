@@ -1,0 +1,3 @@
+/Users/lukaakhaladze/Desktop/projects/ASCII_Blaster_3D/cmake-build-debug/CMakeFiles/ASCII_BLAST_3D.dir
+/Users/lukaakhaladze/Desktop/projects/ASCII_Blaster_3D/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/lukaakhaladze/Desktop/projects/ASCII_Blaster_3D/cmake-build-debug/CMakeFiles/rebuild_cache.dir
