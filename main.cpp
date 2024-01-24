@@ -1,6 +1,7 @@
 #include <iostream>
+int nWindowSize = 120;
+int mWindowSize = 240;
 
 int main() {
-    std::cout << "Hello, World!" << std::endl;
-    return 0;
+
 }
