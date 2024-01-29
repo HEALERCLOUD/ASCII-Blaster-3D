@@ -17,6 +17,10 @@ using  namespace std;
 ////////////////////////////////////////////////////////////
 int n_screen_width = 140;
 int n_screen_height = 40;
+int nMapWidth = 16;
+int nMapHeight = 16;
+float fPlayerX = 14.7f;
+float fPlayerY = 5.09f;
 
 
 int main() {
@@ -46,6 +50,9 @@ int main() {
     map += L"#......#########";
     map += L"#..............#";
     map += L"################";
+
+    auto tp1 = chrono::system_clock::now();
+    auto tp2 = chrono::system_clock::now();
 
 
 }
